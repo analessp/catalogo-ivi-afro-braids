@@ -19,7 +19,4 @@ Este projeto é uma landing page completa e responsiva criada para exibir os ser
 ## Como visualizar o site
 O site está disponível online para acesso através do seguinte link:
 
-[Ivi Afro Braids - Beleza e Cultura em Tranças[https://catalogo-ivi-afro-braids.vercel.app]]
-
-
-https://catalogo-ivi-afro-braids.vercel.app/
+[https://catalogo-ivi-afro-braid]
